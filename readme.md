@@ -1,6 +1,6 @@
 # Quiz Game
 
-This project is a simple Quiz Game that allows users to answer single-choice questions and see their score at the end. The application includes features such as a countdown timer for each question and dynamic background color changes. Note that this project was intentionally left with some imperfections and bugs for educational purposes.
+This project is a simple Quiz Game that allows users to answer single-choice questions and see their score at the end. The application includes features such as a countdown timer for each question and dynamic background color changes. Note that this project was intentionally left with some imperfections and bugs.
 
 ## Features
 
